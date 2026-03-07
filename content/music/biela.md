@@ -1,0 +1,1 @@
+Mysterious soundtrack. A mystical, esoteric orchestra and epic Scandinavian folklore. Dark epic, mysterious fantasy, ethereal folk. Folktronica ambient and eerie funk. Twilight, secretive, and forbidden occultism. A fusion of Eastern and Western, mythological syncopated chthonic nihilism. Magical energy, arcane ritual, and spirituality. 
