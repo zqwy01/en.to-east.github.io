@@ -13,7 +13,7 @@ publish: "true"
 
 # Welcome From ZQWY, And Go To The East!
 
-## ZQWY — art hybrid: слепленный разными цветами, залит палитрой и стихами, музыкальный визионерский колорит. По пути к пустоте, во тьме - сложность мыслей. А суть к полноте, в свете - легкость идей. Формирование методов, симметрии: Еврейская естественность и Греческая мыслительность. Различия отличительные, зеркальные, но разительные.
+#### ZQWY - Created hybrid: Crafted different colors, Filled with a palette and poems, Visionared colorit. On the path to emptiness, in darknessthe complexity of thoughts. And the essence to fullness, in lightthe ease of ideas. Formation of methods, symmetries: Jewish naturalness and Greek thought. The differences are distinctive, mirror-image, but striking. Multigenre, multiculture, multilanguageit's a merging into an ugly form. Genres, culture, and language are limiting! I use every tool I can get my hands on, striving to invent
 
 # [Мультижанр](voidstorm.md), мультикультура, мультиязык
 ## Слияние в безобразный вид. Жанры, культуры и язык - сковывают! Использую все инструменты что попадаются в руки и изобретать стремлюсь 😀 
