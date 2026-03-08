@@ -44,15 +44,14 @@ tags_check: "false"
 
 # Mysterious soundtrack. A mystical, esoteric orchestra and epic Scandinavian folklore.
 
->[!info] DESCRIPTION  🎹
-> #### Mysterious soundtrack. A mystical, esoteric orchestra and epic Scandinavian folklore. Dark epic, mysterious fantasy, ethereal folk. Folktronica ambient and eerie funk. Twilight, secretive, and forbidden occultism. A fusion of Eastern and Western, mythological syncopated chthonic nihilism. Magical energy, arcane ritual, and spirituality. 
+>[!info] description  🎹
+> #### Mysterious soundtrack. A mystical, esoteric orchestra and epic Scandinavian folklore. Dark epic, mysterious fantasy, ethereal folk. Folktronica ambient and eerie funk. Twilight, secretive, and forbidden occultism. A fusion of Eastern and Western, mythological syncopated chthonic nihilism. Magical energy, arcane ritual, and spirituality
 
->[!abstract] STORY 📖
+>[!abstract] story 📖
 >#### The White Doe, with the help of the [[algiz|rune]], remained [[The_Remaining|one of the survivors]]. Unlike the Dark Doe, who was bound with the help of the [[Odal|another rune]] and was on the other side of the [[music/long_play/Na_Hrane/Attachments/Lores/Na_Hrane|between worlds]]. Her purpose is to destroy everything in her path!
 
->[!faq] Какие Инструменты Используются в Композиции?
-># Флейта, тальхарпа, пианино, ковбел, акустические и синтезированные ударные, а также перкуссии, синтезатор
+>[!done] list_of_musical_instruments
+>#### Flute, talharpa, piano, cowbell, acoustic and synthesized drums, as well as percussion, synthesizer
 
->[!faq] Музыкальные Характеристики
-># Модальная гармония, аккорд: натуральный (Emin); ритм: повторяющийся бит; мелодия: contemplative, dark, dreamy; динамика: epic, discovery; тембр: спокойный; жанры: фонк (phonk), фолк (folk), эмбиент (ambient)
->тэги: chaotic, ethereal, haunting, magical, mystical, nature, reflective, repetitive, searching, mysterious, ambient, esoteric, occultism, magic, scandinavian, nihilism, chthonic, arcane, secretive, spirituality, mythological, fantasy, 19th century, ritual, twilight, forbidden
+>[!hint] music_characters
+>#### Modal harmony, chord: natural (Emin); rhythm: repeating beat; melody: contemplative, dark, dreamy; dynamics: epic, discovery; timbre: calm; genres: phonk, folk, ambient
