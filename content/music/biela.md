@@ -47,8 +47,8 @@ tags_check: "false"
 >[!info] DESCRIPTION  🎹
 > #### Mysterious soundtrack. A mystical, esoteric orchestra and epic Scandinavian folklore. Dark epic, mysterious fantasy, ethereal folk. Folktronica ambient and eerie funk. Twilight, secretive, and forbidden occultism. A fusion of Eastern and Western, mythological syncopated chthonic nihilism. Magical energy, arcane ritual, and spirituality. 
 
->[!abstract] СЮЖЕТ  📖
-># Белая лань с помощью [[algiz|руны]] осталась [[The_Remaining|одной из выживших]]. В отличие от тёмной лани, которая была связана с помощью [[Odal|другой руны]] и находилась по другую сторону [[music/long_play/Na_Hrane/Attachments/Lores/Na_Hrane|междумирья]]. Её суть - уничтожить всё на собственном пути!
+>[!abstract] STORY 📖
+>#### The White Doe, with the help of the [[algiz|rune]], remained [[The_Remaining|one of the survivors]]. Unlike the Dark Doe, who was bound with the help of the [[Odal|another rune]] and was on the other side of the [[music/long_play/Na_Hrane/Attachments/Lores/Na_Hrane|between worlds]]. Her purpose is to destroy everything in her path!
 
 >[!faq] Какие Инструменты Используются в Композиции?
 ># Флейта, тальхарпа, пианино, ковбел, акустические и синтезированные ударные, а также перкуссии, синтезатор
