@@ -50,8 +50,11 @@ tags_check: "false"
 >[!abstract] story 📖
 >#### The White Doe, with the help of the [[algiz|rune]], remained [[The_Remaining|one of the survivors]]. Unlike the Dark Doe, who was bound with the help of the [[Odal|another rune]] and was on the other side of the [[music/long_play/Na_Hrane/Attachments/Lores/Na_Hrane|between worlds]]. Her purpose is to destroy everything in her path!
 
->[!done] list_of_musical_instruments
+>[!done] list of musical instruments used 🎵
 >#### Flute, talharpa, piano, cowbell, acoustic and synthesized drums, as well as percussion, synthesizer
 
->[!hint] music_characters
->#### Modal harmony, chord: natural (Emin); rhythm: repeating beat; melody: contemplative, dark, dreamy; dynamics: epic, discovery; timbre: calm; genres: phonk, folk, ambient
+>[!hint] music characters 🔣
+>#### Modal harmony, chord: natural (Emin); rhythm: repeating beat (110bpm); melody: contemplative, dark, dreamy; dynamics: epic, discovery; timbre: calm; genres: phonk, folk, ambient
+
+> [!faq] other ♾️
+>#### upc: 5063600285227 isrc: AEA0Q2448892
