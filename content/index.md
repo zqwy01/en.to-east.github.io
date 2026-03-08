@@ -18,10 +18,10 @@ publish: "true"
 #### [Multigenre](voidstorm.md), multiculture, multilang
 #### Слияние в безобразный вид. Жанры, культуры и язык - сковывают! Использую все инструменты что попадаются в руки и изобретать стремлюсь 😀 
 
-## Меня [штормит](voidstorm.md) и жанров множество: [фонк](phonk), [фолк](folk), [эмбиент](ambient), [дроун](drone), [нойз](noise), [метал](metal), [хаус](house), [техно](techno)
+#### Меня [штормит](voidstorm.md) и жанров множество: [фонк](phonk), [фолк](folk), [эмбиент](ambient), [дроун](drone), [нойз](noise), [метал](metal), [хаус](house), [техно](techno)
 
-## Music, epos, стихи, искусство, синтез, композиторство, сочинить, креатив снимая его! Короче - пустая трата ресурсов, кто бы мог подумать???
+#### Music, epos, стихи, искусство, синтез, композиторство, сочинить, креатив снимая его! Короче - пустая трата ресурсов, кто бы мог подумать???
 
 <h1 align=center>
-<img src="attachments/clear-lq.gif" alt="zqwy_with_bird" title="zqwy_with_bird"/>
+<img width="70%" height="70%" src="attachments/clear-lq.gif" alt="zqwy_with_bird" title="zqwy_with_bird"/>
 </h1>
