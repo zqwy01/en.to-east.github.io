@@ -2,7 +2,7 @@
 title: biela
 alias: biela
 cover: "[[zqwy_biela_cover.jpg]]"
-description: "Загадочный саундтрек: мистический, эзотерический оркестр и эпический скандинавский фольклёр. Мрачный эпос, таинственное фэнтези, эфирный фолк. Фолкотроника эмбиент и фонк. Сумеречный скрытный и запретный оккультизм. Слияние восточного и западного, мифологический синкопированный хтонический нигилизм. Магическая энергия, арканическая ритуальность и спиритуальность."
+description: Mysterious soundtrack. A mystical, esoteric orchestra and epic Scandinavian folklore. Dark epic, mysterious fantasy, ethereal folk. Folktronica ambient and eerie funk. Twilight, secretive, and forbidden occultism.
 tags:
   - folk
   - phonk
