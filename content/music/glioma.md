@@ -1,7 +1,6 @@
 ---
 title: glioma
 alias: glioma
-cover: "[[zqwy_glioma_cover.jpg]]"
 description: On the eve of the selfless destruction of humanity, the human brain turned out to be the most vulnerable target for a mass attack.
 tags:
   - drone

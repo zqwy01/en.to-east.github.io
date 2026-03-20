@@ -27,7 +27,7 @@ tags_check: "false"
 publish: "true"
 ---
 <h1 align=center>
-<img src="../attachments/tracks/biela/covers/zqwy_biela_cover.webp" alt="zqwy_biela" />
+<img src="https://ia800106.us.archive.org/23/items/zqwy_biela/zqwy_biela_cover_original.webp" alt="zqwy_biela" />
 </h1>
 
 # Mysterious soundtrack. A mystical, esoteric orchestra and epic Scandinavian folklore.
