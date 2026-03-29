@@ -1,45 +1,30 @@
 ---
 title: glioma
+author: zqwy
 alias: glioma
-description: On the eve of the selfless destruction of humanity, the human brain turned out to be the most vulnerable target for a mass attack.
-tags:
-  - drone
-  - dark
-  - ambient
-  - soundscape
-  - noise
+aliases: 
+tags: 
+- drone
+- dark
+- ambient
+- soundscape
+- noise 
+description: В преддверии самозабвенного уничтожение человечества, наиболее уязвимым объектом для массовой атаки, оказался человеческий мозг. Кибер логос в ходе успешного ан
 date: 2024-11-14
-author: ZQWY
-genre:
-  - noise
-  - drone
-  - dark_ambient
-  - cinematic
-instrument: Synthesizer
-epocha: 19st
-emotions:
-  - dark
-upc: "3617666042618"
-isrc: DGA0R2436051
-isws:
-daw: fl_studio
-tonal: Cmaj
-bpm: "79"
-distribution:
-  - soundcheck
-publish: "true"
-seo_check: "false"
-tags_check: "false"
+publish: true
 ---
 
 <h1 align=center>
-<img src="../attachments/tracks/glioma/covers/zqwy_glioma_cover.webp" alt="glioma" />
+<img src="https://ia902908.us.archive.org/30/items/zqwy_glioma/zqwy_glioma_cover_site.webp" alt="zqwy_glioma"/>
 </h1>
 
-<p align="center"> <iframe src="https://archive.org/details/zqwy_glioma" scrolling="no" width="80%" height="470" align=center frameborder="0" title="cyber_logos"></iframe> </p>
+>[!abstract] 
+> #### В преддверии самозабвенного уничтожение человечества, наиболее уязвимым объектом для массовой атаки, оказался человеческий мозг. Кибер логос в ходе успешного анализа уязвимостей, сформулировал скрытый способ атаки с помощью ярких и быстро мигающих вспышек. Поэтому реакция мозга доведенна до абсурда в отсутствие разнообразности? Исход человека привязан с бегом Акса в пустыни в поисках лабиринта. Гибель разума приводит к пустоте и инертном в бесконечном цикле бури пустоты которая засасывает внутрь своей нескончаемым разнообразие и в следствие – единообразие
 
->[!info] ОПИСАНИЕ  🎹
->#### Esoteric Ambient, Hopelessness Atmosphere (Contemplative Piano Soundtrack
+>[!info] 
+> #### Esoteric Ambient, Hopelessness Atmosphere (Contemplative Piano Soundtrack
 
->[!abstract] STORY 📖
->### On the eve of the selfless [[dystopian_future|destruction of humanity]], the human brain turned out to be the most vulnerable target for a mass attack. [[deploy/to-east.github.io/content/music/cyber_logos|Cyber ​​Logos]], during a successful vulnerability analysis, formulated a covert attack method using bright and rapidly flashing flashes. Therefore, the brain's reaction is taken to the point of absurdity in [[not_diverse|lack of diversity]]? The human outcome is tied to Axe's run through the desert in search of the labyrinth. The death of the mind leads to emptiness and inertia in an endless cycle of [[voidstorm|storm of emptiness]] that sucks in its endless diversity and, consequently, uniformity.
+>[!done] Музыкальные Инструменты:
+> #### 
+
+<iframe name="player" class="player" src="https://archive.org/details/zqwy_glioma" scrolling="no" width="100%" height="500" align=center frameborder="0" title="zqwy_glioma"></iframe>
